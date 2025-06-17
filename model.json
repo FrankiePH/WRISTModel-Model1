@@ -2,12 +2,7 @@
   "version": "1.0",
   "name": "WRISTModel-Model1",
   "description": "<p>model 1</p>",
-  "component_sets": [
-    {
-      "name": "WRISTComp-Model2",
-      "id": "WRISTComp-Model2"
-    }
-  ],
+  "component_sets": [],
   "concept": [
     {
       "name": "Item",
