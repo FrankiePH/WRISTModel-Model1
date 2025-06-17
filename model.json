@@ -3,7 +3,10 @@
   "name": "WRISTModel-Model1",
   "description": "<p>model 1</p>",
   "component_sets": [
-    
+    {
+      "name": "WRISTComp-Model2",
+      "id": "WRISTComp-Model2"
+    }
   ],
   "concept": [
     {
